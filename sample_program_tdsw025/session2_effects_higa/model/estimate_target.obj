@@ -1,0 +1,15 @@
+# Blender v2.82 (sub 7) OBJ File: 'head.blend'
+# www.blender.org
+mtllib estimate_target.mtl
+o estimate_target_male_head_obj.001
+v -0.087745 0.015466 0.080480
+v 0.087745 0.015466 0.080480
+v 0.000000 -0.076819 0.137924
+v -0.044316 -0.115912 0.109225
+v 0.044316 -0.115912 0.109225
+v 0.000000 -0.187810 0.123052
+l 1 2
+l 2 3
+l 3 4
+l 4 5
+l 5 6
